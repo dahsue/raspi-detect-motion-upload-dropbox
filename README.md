@@ -1,6 +1,6 @@
 #Detect motion, record and upload to dropbox
-If you have a Foscam camera and a Raspberry Pi you can run this Python script to record videos and upload to your dropbox
-folder when it detects motion. If you use dropbox on your PC or smarthome you can be notified when new videos
+If you have a Foscam camera and a Raspberry Pi you can run this Python script to record videos and upload them to your dropbox
+folder whenever it detects motion. If you use dropbox on your PC or smarthome you can then be notified when new videos
 are uploaded.
 
 #Name
